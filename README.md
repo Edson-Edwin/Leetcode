@@ -8,6 +8,7 @@ Basics
 - [1.Two Sum](./Twosum.java)
 - [258.Add Digits](./Adddigits.java)
 - [7.Reverse Integer](./Reverseinteger.java)
+- [231.Power of two](./Poweroftwo.java)
 
 More problems will be added as I continue practicing.
 
