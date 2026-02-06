@@ -9,6 +9,7 @@ Basics
 - [258.Add Digits](./Adddigits.java)
 - [7.Reverse Integer](./Reverseinteger.java)
 - [231.Power of two](./Poweroftwo.java)
+- [326.Power of three](./Powerofthree.java)
 
 More problems will be added as I continue practicing.
 
