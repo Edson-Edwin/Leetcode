@@ -13,9 +13,9 @@ Basics
 - [342.Power of four](./Poweroffour.java)
 - [69.Sqrt(x)](./sqrt.java)
 - [26.Duplicate array](./Duplicatearray.java)
-- [26.Remove Element](./Removeelement.java)
-- [26.Plus One](./Plusone.java)
-- [26.Missing Number](./Missingnumber.java)
+- [27.Remove Element](./Removeelement.java)
+- [66.Plus One](./Plusone.java)
+- [268.Missing Number](./Missingnumber.java)
 
 
 More problems will be added as I continue practicing.
